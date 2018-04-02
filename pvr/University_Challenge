@@ -1,0 +1,5 @@
+fileprefix <nameshort>-<senum>-<episodeshort>
+output /tmp/iplayer_incoming/university_challenge
+tvmode best
+type tv
+search0 University Challenge 
