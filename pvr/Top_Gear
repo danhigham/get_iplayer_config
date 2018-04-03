@@ -1,0 +1,5 @@
+fileprefix <nameshort>-<senum>-<episodeshort>
+output /tmp/iplayer_incoming/top_gear
+tvmode best
+type tv
+search0 Top Gear
