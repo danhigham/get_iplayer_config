@@ -1,5 +1,5 @@
 fileprefix <nameshort>-<senum>-<episodeshort>
-output /tmp/iplayer_incoming/
+output /tmp/iplayer_incoming/charlie_and_lola/
 tvmode best
 type tv
 search0 Charlie And Lola

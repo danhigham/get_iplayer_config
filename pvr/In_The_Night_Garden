@@ -1,5 +1,5 @@
 fileprefix <nameshort>-<senum>-<episodeshort>
-output /tmp/iplayer_incoming/
+output /tmp/iplayer_incoming/in_the_night_garden/
 tvmode best
 type tv
 search0 In The Night Garden

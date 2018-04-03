@@ -1,5 +1,5 @@
 fileprefix <nameshort>-<senum>-<episodeshort>
-output /tmp/iplayer_incoming/
+output /tmp/iplayer_incoming/natural_world/
 tvmode best
 type tv
 search0 Natural World
