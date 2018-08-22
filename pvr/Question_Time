@@ -1,5 +1,0 @@
-fileprefix <nameshort>-<episodeshort>
-output /tmp/iplayer_incoming/question_time/
-tvmode best
-type tv
-search0 Question Time

@@ -1,5 +1,0 @@
-fileprefix <nameshort>-<senum>-<episodeshort>
-output /tmp/iplayer_incoming/click/
-tvmode best
-type tv
-search0 Click
