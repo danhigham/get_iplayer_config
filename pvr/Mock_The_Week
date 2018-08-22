@@ -1,0 +1,5 @@
+fileprefix <nameshort>-<senum>-<episodeshort>
+output /tmp/iplayer_incoming/mock_the_week/
+tvmode best
+type tv
+search0 Mock The Week

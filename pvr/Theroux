@@ -1,0 +1,5 @@
+fileprefix <nameshort>-<senum>-<episodeshort>
+output /tmp/iplayer_incoming/theroux/
+tvmode best
+type tv
+search0 Theroux
