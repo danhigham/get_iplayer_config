@@ -1,5 +1,0 @@
-fileprefix <nameshort>-<senum>-<episodeshort>
-output /tmp/iplayer_incoming/have_i_got_news/
-tvmode best
-type tv
-search0 Have I Got News

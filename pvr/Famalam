@@ -1,5 +1,0 @@
-fileprefix <nameshort>-<senum>-<episodeshort>
-output /tmp/iplayer_incoming/famalam/
-tvmode best
-type tv
-search0 Famalam
