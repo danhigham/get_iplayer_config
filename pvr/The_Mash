@@ -1,0 +1,5 @@
+fileprefix <nameshort>-<senum>-<episodeshort>
+output /tmp/iplayer_incoming/the_mash/
+tvmode best
+type tv
+search0 The Mash
