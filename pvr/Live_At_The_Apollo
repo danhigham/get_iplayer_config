@@ -1,0 +1,5 @@
+fileprefix <nameshort>-<senum>-<episodeshort>
+output /tmp/iplayer_incoming/live_at_the_apollo/
+tvmode best
+type tv
+search0 Apollo
