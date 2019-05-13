@@ -1,0 +1,5 @@
+fileprefix <nameshort>-<senum>-<episodeshort>
+output /tmp/iplayer_incoming/repair_shop/
+tvmode best
+type tv
+search0 The Repair Shop
