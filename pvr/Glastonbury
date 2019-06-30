@@ -2,5 +2,5 @@ fileprefix <nameshort>-<senum>-<episodeshort>
 output /tmp/iplayer_incoming/glastonbury/
 tvmode good
 type tv
-pid 2458
-pid 2463
+pid m0006gy9
+pid m0006gyp
