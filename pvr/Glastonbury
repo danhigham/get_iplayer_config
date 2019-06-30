@@ -1,0 +1,6 @@
+fileprefix <nameshort>-<senum>-<episodeshort>
+output /tmp/iplayer_incoming/glastonbury/
+tvmode good
+type tv
+search0 2458
+search1 2463
