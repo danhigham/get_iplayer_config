@@ -1,0 +1,5 @@
+fileprefix <nameshort>-<senum>-<episodeshort>
+output /tmp/iplayer_incoming/news-at-10/
+tvmode good
+type tv
+pid m0007swz
