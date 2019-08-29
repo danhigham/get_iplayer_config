@@ -2,5 +2,5 @@ fileprefix <nameshort>-<senum>-<episodeshort>
 output /tmp/iplayer_incoming/news-at-10/
 tvmode good
 type tv
-channel "BBC One"
-search0 "BBC News at Ten"
+channel BBC One
+search0 BBC News at Ten
